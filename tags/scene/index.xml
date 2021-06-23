@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Meu portfolio</title>
+    <link>https://pedro-farah.github.io/webpage-portfolio/tags/scene/</link>
+    <description>Recent content in scene on Meu portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Jun 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://pedro-farah.github.io/webpage-portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Previsão de funcionários que deixarão a empresa </title>
+      <link>https://pedro-farah.github.io/webpage-portfolio/post/projeto-1/</link>
+      <pubDate>Wed, 09 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://pedro-farah.github.io/webpage-portfolio/post/projeto-1/</guid>
+      <description>O principal objetivo do projeto era, a partir de uma base histórica do registros dos funcionários de uma empresa, construir um modelo classificador para separar os funcionários em duas classes: Funcionários que provavelmente deixariam a empresa e Funcionários que continuariam na empresa.
+Passos realizados no projeto:
+ Análise Exploratória dos dados Limpeza dos dados Processamento dos dados Criação e comparação entre 3 modelos classificadores   Link para o repositório do projeto</description>
+    </item>
+    
+  </channel>
+</rss>

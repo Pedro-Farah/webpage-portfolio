@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio de Data Science on Meu portfolio</title>
+    <link>https://pedro-farah.github.io/webpage-portfolio/</link>
+    <description>Recent content in Portfolio de Data Science on Meu portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jun 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://pedro-farah.github.io/webpage-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Previsão do faturamento de uma empresa alimentícia em bairros do Rio de Janeiro</title>
+      <link>https://pedro-farah.github.io/webpage-portfolio/post/projeto-6/</link>
+      <pubDate>Fri, 11 Jun 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://pedro-farah.github.io/webpage-portfolio/post/projeto-6/</guid>
+      <description>O objetivo do projeto era a construção do melhor modelo regressor que conseguisse oferecer uma estimativa de faturamento de uma empresa alimentícia fictícia ao abrir novas filiais em bairros da cidade do Rio de Janeiro. Os algoritmos utilizaram foram: Random Forest, Gradient Boosting, Adaboost e XG Boost. Para cada um foram testadas versões com divisão em treino e teste, validação cruzada e redução de dimensionalidade com PCA.
+Passos realizados:
+ Limpeza Análise e Visuzalização dos dados Comparação da acurácia de vários algoritmos regressores Escolha do modelo final   Link para o repositório do projeto</description>
+    </item>
+    
+    <item>
+      <title>Previsão de funcionários que deixarão a empresa </title>
+      <link>https://pedro-farah.github.io/webpage-portfolio/post/projeto-1/</link>
+      <pubDate>Wed, 09 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://pedro-farah.github.io/webpage-portfolio/post/projeto-1/</guid>
+      <description>O principal objetivo do projeto era, a partir de uma base histórica do registros dos funcionários de uma empresa, construir um modelo classificador para separar os funcionários em duas classes: Funcionários que provavelmente deixariam a empresa e Funcionários que continuariam na empresa.
+Passos realizados no projeto:
+ Análise Exploratória dos dados Limpeza dos dados Processamento dos dados Criação e comparação entre 3 modelos classificadores   Link para o repositório do projeto</description>
+    </item>
+    
+    <item>
+      <title>Classificação dos sentimentos dos clientes em relação a Amazon Alexa</title>
+      <link>https://pedro-farah.github.io/webpage-portfolio/post/projeto-4/</link>
+      <pubDate>Mon, 05 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://pedro-farah.github.io/webpage-portfolio/post/projeto-4/</guid>
+      <description>A partir de uma base de dados textual com reviews de clientes sobre a linha de produtos da Amazon Alexa, foi possível fazer um processamento que permitiu a análise e classificação das reviews como positivas ou negativas a partir do algortimo Naive Bayes.
+Passos realizados:
+ Análise Exploratória dos dados Limpeza dos dados (remoção de pontuação e &amp;ldquo;stop words&amp;rdquo;) Tokenização e Count Vectorizer Utilização do algoritmo Naive Bayes para classificação   Link para o repositório do projeto</description>
+    </item>
+    
+    <item>
+      <title>Clusterização de grupos de clientes de um banco</title>
+      <link>https://pedro-farah.github.io/webpage-portfolio/post/projeto-3/</link>
+      <pubDate>Mon, 05 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://pedro-farah.github.io/webpage-portfolio/post/projeto-3/</guid>
+      <description>O objetivo desse projeto era fazer a clusterização dos clientes de um banco em determinados grupos para que fosse possível enviar promoções personalizadas para cada grupo.
+Passos realizados:
+ Análise Exploratória dos dados Limpeza dos dados Utilização do algoritmo K-Means para clusterização Utilização de PCA para redução de dimensionalidade Utilização de Auto-Encoders para redução de dimensionalidade   Link para o repositório do projeto</description>
+    </item>
+    
+    <item>
+      <title>Detecção de Falhas na Linha de Produção através de Segmentação de Imagens</title>
+      <link>https://pedro-farah.github.io/webpage-portfolio/post/projeto-5/</link>
+      <pubDate>Mon, 05 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://pedro-farah.github.io/webpage-portfolio/post/projeto-5/</guid>
+      <description>Neste projeto foram utilizados dois modelos de Redes Neurais. O primeiro modelo foi resposável por detectar se havia defeitos nas peças (ResNet). Tendo sido detectado o defeito, outro modelo foi usado para segmentar a imagem e localizar o defeito (ResUNet).
+Passos realizados:
+ Análise e Visuzalização dos dados Primeiro modelo para detectar o defeito (Transfer Learning com a ResNet) Segundo modelo para segmentar e localizar o defeito (ResUNet)     Link para o repositório do projeto</description>
+    </item>
+    
+    <item>
+      <title>Classificação de doenças pulmonares por imagens</title>
+      <link>https://pedro-farah.github.io/webpage-portfolio/post/projeto-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://pedro-farah.github.io/webpage-portfolio/post/projeto-2/</guid>
+      <description>Neste projeto, foi utilizada uma base de dados com imagens pulmonares de pacientes divididos em 4 classes diferentes:
+ Healthy (Saudável) Covid 19 Pneumonia Bacteriana Pneumonia Viral  As imagens rotuladas foram utilizadas como entrada para o modelo e vários processamentos foram feitos:
+ Aplicação de Kernels Downsampling Flattening  Em seguida, foi utilizada uma Rede Neural Convolucional do tipo ResNet, previamente treinada, onde o aprendizado foi transferido para esta aplicação (Transfer Learning)</description>
+    </item>
+    
+    <item>
+      <title>Contatos</title>
+      <link>https://pedro-farah.github.io/webpage-portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedro-farah.github.io/webpage-portfolio/contact/</guid>
+      <description>Contatos para minhas redes sociais
+   Plataforma URL     LinkedIn : https://www.linkedin.com/in/pedro-farah-0b981a209/    </description>
+    </item>
+    
+  </channel>
+</rss>
